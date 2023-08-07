@@ -1,3 +1,7 @@
 ﻿  win32_platform.cpp
-E:\Code Projects\Online Projects\Pong_CPP\Pong_CPP\Pong_CPP\win32_platform.cpp(55,5): warning C4007: 'WinMain': deve ser '__stdcall'
+E:\Code Projects\Online Projects\Pong_CPP\Pong_CPP\Pong_CPP\renderer.cpp(40,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+E:\Code Projects\Online Projects\Pong_CPP\Pong_CPP\Pong_CPP\renderer.cpp(41,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+E:\Code Projects\Online Projects\Pong_CPP\Pong_CPP\Pong_CPP\renderer.cpp(42,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+E:\Code Projects\Online Projects\Pong_CPP\Pong_CPP\Pong_CPP\renderer.cpp(43,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+E:\Code Projects\Online Projects\Pong_CPP\Pong_CPP\Pong_CPP\win32_platform.cpp(58,5): warning C4007: 'WinMain': deve ser '__stdcall'
   Pong_CPP.vcxproj -> E:\Code Projects\Online Projects\Pong_CPP\Pong_CPP\Debug\Pong_CPP.exe
